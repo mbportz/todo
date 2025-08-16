@@ -1,0 +1,15 @@
+Checking formatting...
+[warn] eslint.config.js
+[warn] project-report/vite.config.ts
+[warn] README.md
+[warn] src/App.tsx
+[warn] src/components/AddTodoForm.tsx
+[warn] src/components/TodoItem.tsx
+[warn] src/components/TodoList.tsx
+[warn] src/components/TodoSummary.tsx
+[warn] src/data/todo.ts
+[warn] src/hooks/useTodos.ts
+[warn] src/main.tsx
+[warn] src/types/todo.ts
+[warn] vite.config.ts
+[warn] Code style issues found in 13 files. Run Prettier with --write to fix.
