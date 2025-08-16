@@ -3,6 +3,8 @@
 This is a **Todo List App** built with **React, TypeScript, and Vite**.  
 The app lets you add, edit, complete, and delete tasks with a clean, modern UI.
 
+![Todo App Demo](./public/todos.gif)
+
 It’s also designed as a learning project to practice best practices in **frontend development**:
 - Functional React components with Hooks
 - TypeScript strict typing for safer code
